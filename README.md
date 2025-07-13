@@ -34,7 +34,7 @@ digit-recognition-pytorch/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/digit-recognition-pytorch.git
+git clone https://github.com/GaMa-git-hub/digit-recognition-pytorch.git
 cd digit-recognition-pytorch
 ```
 
