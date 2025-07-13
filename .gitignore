@@ -1,0 +1,13 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# PyCharm settings
+.idea/
+
+# Logs and junk files
+*.log
+.DS_Store
